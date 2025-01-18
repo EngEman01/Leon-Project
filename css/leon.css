@@ -59,6 +59,7 @@
 
 .header .links{
     position: relative;
+    z-index: 1000;
 }
 .header .links:hover .icon span:nth-child(2){
 width: 100%;
